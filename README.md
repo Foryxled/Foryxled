@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Foryxled
 - 👀 I’m interested in Game Developing, App Development and Content Creation
-- 🌱 I’m currently learning Python, C, C++, C#, Java and more
+- 🌱 I’m currently learning Python, C, C++, C#, Java and more!
 <!---- 💞️ I’m looking to collaborate on --->
 - 📫 Reach me: foryxled@gmail.com
 
